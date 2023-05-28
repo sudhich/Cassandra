@@ -1,3 +1,3 @@
 link-  https://astra.datastax.com/org/3d831ca4-025d-40d7-bbee-71d67856db08/database
 abhijeet.mishra1@indiamart.com
-pass- Sudhir@123
+pass- capital.s.sudhir.at.the.rate.one.two.three
